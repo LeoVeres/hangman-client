@@ -20,7 +20,3 @@ and 'python app.py' then clone this repo and 'npm start'.
 
 ### Back-End
 * Python
-
-### Deployment
-* Heroku
-* mLab
