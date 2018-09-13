@@ -7,7 +7,7 @@ and run python app.py then clone this repo and npm start.
 
 ## Screenshots
 
-<img width="1285" alt="screen shot login" src="./src/imgs/hangmandashboard.png">
+<img width="1285" alt="screen shot login" src="./src/imgs/hangmandashboard.PNG">
 
 
 ## Tech Used
