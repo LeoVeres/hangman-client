@@ -3,7 +3,7 @@
 [Hangman]() While experimenting with python I created this modern take on a classic game.  
 ## Backend:
 To try it out yourself clone the backend https://github.com/LeoVeres/hangman-backend 
-and run python app.py then clone this repo and npm start.
+and 'python app.py' then clone this repo and 'npm start'.
 
 ## Screenshots
 
